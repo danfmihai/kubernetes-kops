@@ -1,4 +1,4 @@
-# Install Kubernetes and kops script
+# Install Kubernetes Terraform and kops script
 Just run in terminal :
 
 ```
@@ -7,4 +7,10 @@ cd kubernets-kops
 chmod +x install-kubectl.sh
 sudo sh install-kubectl.sh
 ```
-You should have kubectl and kops installed now. 
+You should have kubectl terraform and kops installed now. 
+to test just type in terminal:
+```
+kubectl
+kops
+terraform
+```
