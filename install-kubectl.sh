@@ -3,7 +3,7 @@
 
 KUBECTL_BIN=kubectl
 TERRAFORM_ZIP_FILE=terraform_0.12.26_linux_amd64.zip
-TERRAFORM=https://releases.hashicorp.com/terraform/0.12.26/
+TERRAFORM=https://releases.hashicorp.com/terraform/0.12.26
 TERRAFORM_BIN=terraform
 
 
