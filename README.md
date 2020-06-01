@@ -7,3 +7,4 @@ cd kubernets-kops
 chmod +x install-kubectl.sh
 sudo sh install-kubectl.sh
 ```
+You should have kubectl and kops installed now. 
